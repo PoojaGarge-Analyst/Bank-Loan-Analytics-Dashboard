@@ -50,4 +50,5 @@ To give a clear, interactive view of the loan portfolio — funded amounts, repa
 - **Decision Support:** Self-service slicers let different teams (credit, marketing, regional managers) explore the data relevant to them without needing custom reports.
 
 ## 6. Screenshots / Demos
-![ Dashboard Preview].
+![ Dashboard Preview].(https://github.com/PoojaGarge-Analyst/Bank-Loan-Analytics-Dashboard/blob/main/Screenshot%202026-07-10%20225413.png)
+
